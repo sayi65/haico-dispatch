@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://haico.mono-apps.com/"><img src="assets/logo.png" width="96" alt="HAICO 派车调度"></a>
+<a href="https://haico.mono-apps.com/"><img src="assets/logo.png" width="96" alt="HAICO派车"></a>
 
-# HAICO 派车调度
+# HAICO派车
 
 **不再对着 Excel 排车。拖一下，就派好车。**
 
@@ -42,12 +42,12 @@
 
 ## 🔗 相关链接
 
-- 🌐 官网：[HAICO 派车调度](https://haico.mono-apps.com/)
+- 🌐 官网：[HAICO派车](https://haico.mono-apps.com/)
 - 📖 [Excel 调度表到极限了？免费改用拖放式派车](https://haico.mono-apps.com/guide)
 - 🚕 [出租车・接送的派车调度](https://haico.mono-apps.com/taxi-dispatch)
 - ℹ️ [关于 HAICO](https://haico.mono-apps.com/about)
 
 <div align="center">
 <br>
-<sub>HAICO 派车调度 · 适用于出租车・接送・包车・租车・公务车</sub>
+<sub>HAICO派车 · 适用于出租车・接送・包车・租车・公务车</sub>
 </div>
